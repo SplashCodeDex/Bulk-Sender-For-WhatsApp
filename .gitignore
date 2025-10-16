@@ -1,1 +1,52 @@
-*/res/anim/abc_tooltip_exit.xml
+# Built application files
+*.apk
+*.ap_
+*.aab
+*.aar
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+build/
+.gradle/
+
+# Local configuration files (sdk location, etc)
+local.properties
+
+# Gradle-specific caching
+.gradle/
+
+# Android Studio project files
+.idea/
+.cxx/
+
+# Keystore files
+*.keystore
+
+# External native build files
+.externalNativeBuild/
+
+# Flutter specific
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.dart_tool/
+
+# VS Code specific
+.vscode/
+
+# macOS specific
+.DS_Store
+
+# Crashlytics/Firebase specific
+crashlytics/
+
+# Project specific
+/tools/
+/Bulk Sender for Marketing/
+firebase-debug.log

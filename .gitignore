@@ -50,3 +50,4 @@ crashlytics/
 /tools/
 /Bulk Sender for Marketing/
 firebase-debug.log
+/Bulk Sender for Marketing/**/*.xml
